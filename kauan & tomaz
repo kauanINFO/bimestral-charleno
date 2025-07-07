@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @media (max-width: 3000px){
-    /*Para computador e tv*/
+    /*Pc*/
     body::selection{
     background-color: black;
     color: brown;
